@@ -1,0 +1,14 @@
+.modal__container {
+  box-shadow: 1px 1px 3px grey;
+  padding: 5px 40px 10px 8px;
+  border: 1px solid grey;
+}
+.modal__footer {
+  position: relative;
+}
+.modal__footer > button {
+  cursor: pointer;
+  position: absolute;
+  right: -35px;
+  top: -15px;
+}
